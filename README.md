@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Updated: 2021-06-17 19:32
+Updated: 2022-01-12 22:00
 
 Install:
 
@@ -11,35 +11,45 @@ The "autoexec.cfg" and cfg files starting with "wifi-" are located in the Counte
 
 The file "radiopanel.txt" is located in the Counter-Strike Global Offensive directory:*\Counter-Strike Global Offensive\csgo\resource\ui
 
-Ues.
-Once installed, any fire and movement in the game will automatically remove any traces of blood, bullet holes and bomb traces from the map.
+Ues:
+After installation, any fire, movement in the game will automatically remove any traces on the map, such as blood, bullet holes, bomb traces.
 
-When an enemy is behind cover, a sound will tell you that the opponent has been hit when you shoot to concentrate the enemy.
+When the enemy is behind cover, there will be a sound to tell you that the opponent was hit when you shoot to focus the enemy.
 
-The radar map will try to show more areas, but you are no longer in the centre of the radar.
+The radar map will try to show more areas, but you are no longer in the center of the radar.
 
-Pressing "TAB" will display the network and FPS status and the release will automatically disappear.
+Pressing "TAB" will display the network and FPS status, and the release will automatically disappear.
 
-Pressing "N" will reset the auto-canceled gun to the smashed gun and turn it on. Pressing "V" will rotate the view 180 degrees.
+Pressing "N" will reset the auto-canceled gun to the smashed gun and turn it on, and the game radio will emit an interesting voice. Pressing "V" after pressing "N" once will rotate the view 180 degrees.
 
 During a match, press "H" to quickly set the team's fast voice volume between 20% and 7%.
 
-During a game, press "F6, F7, F8" to quickly speak to invite other players to compliment your csgo message.
+During the game, press "F6, F7, F8" to quickly speak to invite other players to compliment your csgo message.
 
 Press "mouse5" to kill yourself in entertainment, warm-up mode or if the server allows it.
 
-Pressing "Alt" will open cheat mode and will say "!drop" to your teammates.
+Pressing "Alt" will turn on cheat mode.
+
+Pressing "K" will say "!drop" to your teammates; cheat mode will reduce the thickness of your model.
+
+Pressing "." will toggle the game microphone to be heard by yourself.
+
+Pressing "/" will keep the microphone on.
+
+Pressing "i" will toggle the 3 aimers.
+
+Pressing "F1" will jump and release the fire button.
+
 
 In cheat mode.
-Press "CAPS" to quickly switch to flight mode.
 
-Press "Z" to get a jump device; press "C" to prevent the safe from entering the crosshairs; press "B" to get a blast shield. (As soon as possible, the default Z\C\B function will still work)
+Press "CAPS" to quickly switch flight mode.
 
-The game's default sounds will show the full content, e.g. bombs going off.
+Press "Z" to get a jump device; press "C" to prevent the safe from entering the crosshairs; press "B" to get a blast shield. (As soon as possible, the default Z\C\B function still works)
+
+The game's default sound will show the full content, such as a bomb explosion.
 
 ===========================
-
-更新时间：2021-06-17 19:32
 
 安装：
 
@@ -62,7 +72,7 @@ The game's default sounds will show the full content, e.g. bombs going off.
 
 按下“TAB”键将显示网络和FPS状态，释放将自动消失。
 
-按下“N”将把自动取消的枪重置为被砸的枪并打开它。按下“V”将旋转180度的视角。
+按下“N”将把自动取消的枪重置为被砸的枪并打开它，游戏无线电发出一段有意思的语音。在一次按下“N”之后按下“V”将旋转180度的视角。
 
 在比赛过程中，按“H”可将团队的快速语音音量快速设置在20％和7％之间。
 
@@ -70,7 +80,17 @@ The game's default sounds will show the full content, e.g. bombs going off.
 
 在娱乐、热身模式或服务器允许的情况下下，按“mouse5”自杀。
 
-按下“Alt”将打开作弊模式且会对队友说“!drop”。
+按下“Alt”将打开作弊模式。
+
+按下“K”会对队友说“!drop”；作弊模式下会缩小自己模型粗细。
+
+按下“.”会切换游戏麦克风对自己可以听见。
+
+按下“/”会保持麦克风开启状态。
+
+按下“i”键会切换3个准星。
+
+按下“F1”将跳跃并松开开火键。
 
 
 在作弊模式下：
