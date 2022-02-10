@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Updated: 2022-01-12 22:00
+Updated: 2022-02-10 21:00
 
 Install:
 
@@ -20,7 +20,7 @@ The radar map will try to show more areas, but you are no longer in the center o
 
 Pressing "TAB" will display the network and FPS status, and the release will automatically disappear.
 
-Pressing "N" will reset the auto-canceled gun to the smashed gun and turn it on, and the game radio will emit an interesting voice. Pressing "V" after pressing "N" once will rotate the view 180 degrees.
+Pressing "N" will reset the auto-canceled gun to the smashed gun and turn it on, and the game radio will emit an interesting voice. 
 
 During a match, press "H" to quickly set the team's fast voice volume between 20% and 7%.
 
@@ -72,7 +72,7 @@ The game's default sound will show the full content, such as a bomb explosion.
 
 按下“TAB”键将显示网络和FPS状态，释放将自动消失。
 
-按下“N”将把自动取消的枪重置为被砸的枪并打开它，游戏无线电发出一段有意思的语音。在一次按下“N”之后按下“V”将旋转180度的视角。
+按下“N”将把自动取消的枪重置为被砸的枪并打开它，游戏无线电发出一段有意思的语音。
 
 在比赛过程中，按“H”可将团队的快速语音音量快速设置在20％和7％之间。
 
