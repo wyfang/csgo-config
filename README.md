@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Updated: 2022-02-10 21:00
+Updated: 2022-03-27 17:40
 
 Install:
 
@@ -36,7 +36,7 @@ Pressing "." will toggle the game microphone to be heard by yourself.
 
 Pressing "/" will keep the microphone on.
 
-Pressing "i" will toggle the 3 aimers.
+Press "i" key to switch between different crosshairs.
 
 Pressing "F1" will jump and release the fire button.
 
@@ -88,7 +88,7 @@ The game's default sound will show the full content, such as a bomb explosion.
 
 按下“/”会保持麦克风开启状态。
 
-按下“i”键会切换3个准星。
+按下“i”键会切换不同准星。
 
 按下“F1”将跳跃并松开开火键。
 
