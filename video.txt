@@ -2,7 +2,7 @@
 {
 	"setting.cpu_level"		"2"
 	"setting.gpu_level"		"3"
-	"setting.mat_antialias"		"2"
+	"setting.mat_antialias"		"8"
 	"setting.mat_aaquality"		"0"
 	"setting.mat_forceaniso"		"0"
 	"setting.mat_vsync"		"0"
