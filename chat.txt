@@ -1,8 +1,0 @@
-playerradio 1 "白色 绿色 淡蓝色 蓝色 红色 金色 灰色 淡绿色 淡红色 浅绿色 浅紫色 浅红色"
-
-playerradio DeathCry " 欢迎加入完美平台公会：公会"
-playerradio DeathCry "购买完美平台VIP会员，开通专属彩色无线电功能！"
-playerradio DeathCry "啊我死了，骗你的"
-playerradio 1 "Doraemon 通过武器箱获得了：M4A4（StatTrak™）| 咆哮"
-playerradio 1 "透试-|-自喵-|-稳定一年多-|-可以先测试-|-加本人好友"
-playerradio 1 "透试-|-自喵-|-稳定一小时-|-保证VAC-|-可以先测试-|-加本人好友"
