@@ -8,7 +8,7 @@ The "video.txt" file is located in the Steam software directory: *\Steam\userdat
 
 Or
 
-You can download both folders and place them in the Steam root directory, provided that your CSGO is placed in the default Steam installation directory.
+You can download two folders and place them in the Steam root directory, provided your CSGO is in the default Steam installation directory, note that the /userdata/89582913/ folder is my steam userid and needs to be replaced with your own.
 
 
 Use:
@@ -57,7 +57,7 @@ Press "Z" to get a jump device; press "C" to prevent the safe from entering the 
 
 或者
 
-你可以下载两个文件夹，然后将其放入Steam根目录即可，前提是你的CSGO放在了Steam的默认安装目录下。
+你可以下载两个文件夹，然后将其放入Steam根目录即可，前提是你的CSGO放在了Steam的默认安装目录下，注意 /userdata/89582913/ 文件夹为本人的steam userid，需要替换成你自己的 userid。
 
 
 使用方法：
