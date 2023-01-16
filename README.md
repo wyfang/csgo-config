@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Updated: 2022-08-09 20:15
+Updated: 2023-01-16 19:00
 
 Installation:
 
@@ -23,7 +23,7 @@ The radar map will try to show more areas but you are no longer in the centre of
 
 Pressing the "TAB" key will show you the network and FPS status and the release will automatically disappear.
 
-Pressing "CAPS" toggles the sensitivity of both mice.
+Pressing "CAPS" to switch between two different radar scales (0.5 0.3).
 
 During a match, press "H" to quickly set the team's fast voice volume between 20% and 7%.
 
@@ -72,7 +72,7 @@ Press "Z" to get a jump device; press "C" to prevent the safe from entering the 
 
 按下“TAB”键将显示网络和FPS状态，释放将自动消失。
 
-按“CAPS”切换两个鼠标灵敏度。
+按“CAPS”切换两个不同的雷达比例（0.5 0.3）。
 
 在比赛过程中，按“H”可将团队的快速语音音量快速设置在20％和7％之间。
 
