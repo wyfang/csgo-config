@@ -1,5 +1,5 @@
 # Wi-Fi CSGO-Config
-Updated: 2023-01-16 19:00
+Updated: 2023-04-12 20:00
 
 Installation:
 
@@ -13,21 +13,23 @@ You can download two folders and place them in the Steam root directory, provide
 
 Use:
 
-After all installs, pressing "N" will reset some errors and run the autocfg file for when things go wrong, it is recommended to press it once every time you enter the game.
+After all installation, pressing "N" will reset some errors and run the autocfg file for when something goes wrong, it is recommended to press it once after each game entry.
 
 Any movement in the game will automatically clear any traces on the map, such as blood, bullet holes, bomb traces.
 
 When an enemy is behind cover, a sound will tell you that the opponent has been hit when you shoot a concentrated enemy.
 
-The radar map will try to show more areas but you are no longer in the centre of the radar; the competitive map uses a simpler and more accurate radar file from https://csgo.link
+The radar map will try to show more areas, but you are no longer in the center of the radar; the competitive map uses a simpler and more accurate radar file from https://csgo.link
 
-Pressing the "TAB" key will show you the network and FPS status and the release will automatically disappear.
+Pressing the "TAB" key will display the network and FPS status, and the release will automatically disappear.
 
-Pressing "CAPS" to switch between two different radar scales (0.5 0.3).
+Press "CAPS" to switch between two different mouse sensitivities (1 1.5).
 
 During a match, press "H" to quickly set the team's fast voice volume between 20% and 7%.
 
-During a game, press "F6, F7, F8, F9, F10, F11" to quickly speak to invite other players to compliment you.
+During the game, press "\" to quickly set the game volume between 10% and 100%.
+
+During a game, press "F6, F7, F8, F9, F10, F11" to quickly speak to invite other players to praise you.
 
 Press "mouse5" to kill yourself in fun, warm-up mode or if the server allows it.
 
@@ -35,11 +37,11 @@ Pressing "Alt" will turn on cheat mode.
 
 Pressing "K" will say "!drop" to your teammates; cheat mode will reduce the thickness of your model.
 
-Pressing "." will toggle the game microphone so that you can hear yourself.
+Pressing "." will toggle the game microphone to be heard by yourself.
 
 Pressing "/" will keep the microphone on.
 
-Pressing the "i" key will toggle the different aimers.
+Pressing "i" will toggle the different aiming stars.
 
 Pressing "F1" will jump and release the fire button.
 
@@ -72,9 +74,11 @@ Press "Z" to get a jump device; press "C" to prevent the safe from entering the 
 
 按下“TAB”键将显示网络和FPS状态，释放将自动消失。
 
-按“CAPS”切换两个不同的雷达比例（0.5 0.3）。
+按“CAPS”切换两个不同的鼠标灵敏度（1 1.5）。
 
 在比赛过程中，按“H”可将团队的快速语音音量快速设置在20％和7％之间。
+
+在比赛过程中，按“\”可将游戏音量快速设置在10％和100％之间。
 
 在游戏中，按“F6，F7，F8，F9，F10，F11” 快速发言以邀请其他玩家赞美您。
 
