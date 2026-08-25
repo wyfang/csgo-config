@@ -1,102 +1,34 @@
-# Wi-Fi CSGO-Config
-Updated: 2023-04-12 20:00
+# Wi-Fi CSGO Config
 
-Installation:
+适用于旧版 Counter-Strike: Global Offensive 的个人配置，包含按键、准星、画面与雷达设置。
 
-The "config.cfg" file is located in the Steam software directory:*\Steam\userdata\userid\730\local\cfg\
-The "video.txt" file is located in the Steam software directory: *\Steam\userdata\userid\730\local\cfg\
+## 安装
 
-Or
+将 `config.cfg` 与 `video.txt` 放入：
 
-You can download two folders and place them in the Steam root directory, provided your CSGO is in the default Steam installation directory, note that the /userdata/89582913/ folder is my steam userid and needs to be replaced with your own.
+```text
+<Steam>/userdata/<userdata ID>/730/local/cfg/
+```
 
+也可以把仓库中的 `steamapps` 与 `userdata` 复制到 Steam 根目录；其中 `89582913` 是作者的 userdata ID，使用前必须替换为自己的 ID。
 
-Use:
+## 主要按键
 
-After all installation, pressing "N" will reset some errors and run the autocfg file for when something goes wrong, it is recommended to press it once after each game entry.
+| 按键 | 功能 |
+| --- | --- |
+| `N` | 重新加载自动配置并重置常见状态 |
+| `Tab` | 按住显示网络与 FPS 信息 |
+| `Caps Lock` | 在灵敏度 1 与 1.5 之间切换 |
+| `H` | 切换队伍语音音量 |
+| `\` | 在 10% 与 100% 游戏音量之间切换 |
+| `/` | 切换麦克风常开 |
+| `.` | 切换本地麦克风回放 |
+| `I` | 切换准星 |
 
-Any movement in the game will automatically clear any traces on the map, such as blood, bullet holes, bomb traces.
+部分按键调用 `sv_cheats` 或仅适用于娱乐、热身和允许作弊的服务器，在官方对局中不会生效。
 
-When an enemy is behind cover, a sound will tell you that the opponent has been hit when you shoot a concentrated enemy.
+这是面向旧版 CSGO 的历史配置，不保证适用于 CS2。
 
-The radar map will try to show more areas, but you are no longer in the center of the radar; the competitive map uses a simpler and more accurate radar file from https://csgo.link
+## 许可
 
-Pressing the "TAB" key will display the network and FPS status, and the release will automatically disappear.
-
-Press "CAPS" to switch between two different mouse sensitivities (1 1.5).
-
-During a match, press "H" to quickly set the team's fast voice volume between 20% and 7%.
-
-During the game, press "\" to quickly set the game volume between 10% and 100%.
-
-During a game, press "F6, F7, F8, F9, F10, F11" to quickly speak to invite other players to praise you.
-
-Press "mouse5" to kill yourself in fun, warm-up mode or if the server allows it.
-
-Pressing "Alt" will turn on cheat mode.
-
-Pressing "K" will say "!drop" to your teammates; cheat mode will reduce the thickness of your model.
-
-Pressing "." will toggle the game microphone to be heard by yourself.
-
-Pressing "/" will keep the microphone on.
-
-Pressing "i" will toggle the different aiming stars.
-
-Pressing "F1" will jump and release the fire button.
-
-
-In cheat mode:
-
-Press "Z" to get a jump device; press "C" to prevent the safe from entering the crosshairs; press "B" to get a blast shield. (As soon as possible, the default Z/C/B function will still work)
-
-===========================
-
-安装：
-
-“config.cfg”文件位于Steam软件目录中：*\Steam\userdata\userid\730\local\cfg\
-“video.txt”文件位于Steam软件目录中：*\Steam\userdata\userid\730\local\cfg\
-
-或者
-
-你可以下载两个文件夹，然后将其放入Steam根目录即可，前提是你的CSGO放在了Steam的默认安装目录下，注意 /userdata/89582913/ 文件夹为本人的steam userid，需要替换成你自己的 userid。
-
-
-使用方法：
-
-所有安装后，按下“N”将重置一些错误及运行autocfg文件，用于出错的时候，建议每次游戏进入后都按下一次。
-
-游戏中的任何移动都会自动清除地图上的任何痕迹，例如鲜血，弹孔，炸弹痕迹。
-
-当敌人在掩体后面时，当您射击集中敌人时，将有声音告诉您对方被击中。
-
-雷达图将尝试显示更多区域，但您不再位于雷达中心；竞技地图使用了简约且更精准的雷达文件，来自 https://csgo.link
-
-按下“TAB”键将显示网络和FPS状态，释放将自动消失。
-
-按“CAPS”切换两个不同的鼠标灵敏度（1 1.5）。
-
-在比赛过程中，按“H”可将团队的快速语音音量快速设置在20％和7％之间。
-
-在比赛过程中，按“\”可将游戏音量快速设置在10％和100％之间。
-
-在游戏中，按“F6，F7，F8，F9，F10，F11” 快速发言以邀请其他玩家赞美您。
-
-在娱乐、热身模式或服务器允许的情况下下，按“mouse5”自杀。
-
-按下“Alt”将打开作弊模式。
-
-按下“K”会对队友说“!drop”；作弊模式下会缩小自己模型粗细。
-
-按下“.”会切换游戏麦克风对自己可以听见。
-
-按下“/”会保持麦克风开启状态。
-
-按下“i”键会切换不同准星。
-
-按下“F1”将跳跃并松开开火键。
-
-
-在作弊模式下：
-
-按下“Z”键即可获得跳转设备；按“C”以防止保险箱进入十字准线；按“B”键获得防爆罩。 （尽快，默认的Z\C\B功能仍然有效）
+原创代码与代码文档依据 [Apache License 2.0](./LICENSE) 发布；个人素材、品牌、游戏内容与第三方内容不在许可范围内。详见 [NOTICE](./NOTICE) 与 [LICENSE_SCOPE.md](./LICENSE_SCOPE.md)。
