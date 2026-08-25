@@ -29,6 +29,6 @@
 
 这是面向旧版 CSGO 的历史配置，不保证适用于 CS2。
 
-## 许可
+## 版权说明
 
-原创代码与代码文档依据 [Apache License 2.0](./LICENSE) 发布；个人素材、品牌、游戏内容与第三方内容不在许可范围内。详见 [NOTICE](./NOTICE) 与 [LICENSE_SCOPE.md](./LICENSE_SCOPE.md)。
+原创代码依据 [Apache License 2.0](./LICENSE) 发布。个人品牌和素材不在许可范围内。
